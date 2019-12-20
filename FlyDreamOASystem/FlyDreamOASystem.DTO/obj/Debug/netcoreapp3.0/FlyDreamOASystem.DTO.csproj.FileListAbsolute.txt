@@ -1,0 +1,8 @@
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\FlyDreamOASystem.DTO\bin\Debug\netcoreapp3.0\FlyDreamOASystem.DTO.deps.json
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\FlyDreamOASystem.DTO\bin\Debug\netcoreapp3.0\FlyDreamOASystem.DTO.dll
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\FlyDreamOASystem.DTO\bin\Debug\netcoreapp3.0\FlyDreamOASystem.DTO.pdb
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\FlyDreamOASystem.DTO\obj\Debug\netcoreapp3.0\FlyDreamOASystem.DTO.AssemblyInfoInputs.cache
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\FlyDreamOASystem.DTO\obj\Debug\netcoreapp3.0\FlyDreamOASystem.DTO.AssemblyInfo.cs
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\FlyDreamOASystem.DTO\obj\Debug\netcoreapp3.0\FlyDreamOASystem.DTO.dll
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\FlyDreamOASystem.DTO\obj\Debug\netcoreapp3.0\FlyDreamOASystem.DTO.pdb
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\FlyDreamOASystem.DTO\obj\Debug\netcoreapp3.0\FlyDreamOASystem.DTO.csprojAssemblyReference.cache

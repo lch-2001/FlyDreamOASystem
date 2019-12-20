@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "FlyDreamOASystem.DTO/1.0.0": {
+        "runtime": {
+          "FlyDreamOASystem.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlyDreamOASystem.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\Shared\bin\Debug\netcoreapp3.0\Shared.deps.json
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\Shared\bin\Debug\netcoreapp3.0\Shared.dll
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\Shared\bin\Debug\netcoreapp3.0\Shared.pdb
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\Shared\obj\Debug\netcoreapp3.0\Shared.AssemblyInfoInputs.cache
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\Shared\obj\Debug\netcoreapp3.0\Shared.AssemblyInfo.cs
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\Shared\obj\Debug\netcoreapp3.0\Shared.dll
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\Shared\obj\Debug\netcoreapp3.0\Shared.pdb
+D:\C#练习\新建文件夹\新建文件夹\FlyDreamOASystem\Shared\obj\Debug\netcoreapp3.0\Shared.csprojAssemblyReference.cache

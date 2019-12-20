@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CaptchaGen" Version="1.0.0" />
+    <PackageReference Include="IdentityModel" Version="4.1.1" />
+    <PackageReference Include="sqlSugarCore" Version="5.0.0.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FlyDreamOASystem.DAL\FlyDreamOASystem.DAL.csproj" />
+    <ProjectReference Include="..\FlyDreamOASystem.Model\FlyDreamOASystem.Model.csproj" />
+  </ItemGroup>
+
+</Project>

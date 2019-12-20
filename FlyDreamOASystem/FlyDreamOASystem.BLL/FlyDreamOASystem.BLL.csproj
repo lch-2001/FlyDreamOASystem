@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="sqlSugarCore" Version="5.0.0.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FlyDreamOASystem.DAL\FlyDreamOASystem.DAL.csproj" />
+    <ProjectReference Include="..\FlyDreamOASystem.DTO\FlyDreamOASystem.DTO.csproj" />
+    <ProjectReference Include="..\FlyDreamOASystem.IBLL\FlyDreamOASystem.IBLL.csproj" />
+    <ProjectReference Include="..\FlyDreamOASystem.IDAL\FlyDreamOASystem.IDAL.csproj" />
+    <ProjectReference Include="..\FlyDreamOASystem.Model\FlyDreamOASystem.Model.csproj" />
+    <ProjectReference Include="..\Shared\Shared.csproj" />
+  </ItemGroup>
+
+</Project>

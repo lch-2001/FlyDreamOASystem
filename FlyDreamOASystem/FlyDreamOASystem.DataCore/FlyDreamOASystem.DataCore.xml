@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FlyDreamOASystem.DataCore</name>
+    </assembly>
+    <members>
+        <member name="M:FlyDreamOASystem.DataCore.Controllers.WeatherForecastController.Self">
+            <summary>
+            这是自定义接口
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

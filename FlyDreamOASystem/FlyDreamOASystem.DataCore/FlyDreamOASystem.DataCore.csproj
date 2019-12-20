@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IdentityModel" Version="4.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.0.0" />
+    <PackageReference Include="sqlSugarCore" Version="5.0.0.11" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FlyDreamOASystem.BLL\FlyDreamOASystem.BLL.csproj" />
+    <ProjectReference Include="..\FlyDreamOASystem.DAL\FlyDreamOASystem.DAL.csproj" />
+    <ProjectReference Include="..\FlyDreamOASystem.DTO\FlyDreamOASystem.DTO.csproj" />
+    <ProjectReference Include="..\FlyDreamOASystem.IBLL\FlyDreamOASystem.IBLL.csproj" />
+    <ProjectReference Include="..\FlyDreamOASystem.IDAL\FlyDreamOASystem.IDAL.csproj" />
+    <ProjectReference Include="..\Shared\Shared.csproj" />
+  </ItemGroup>
+
+</Project>
